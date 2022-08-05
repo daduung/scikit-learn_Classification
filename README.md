@@ -1,4 +1,4 @@
-## scikit learn Classification Models
+## Scikit-learn Classification Models
  1. Decision Tree
  2. Random Forest
  3. GaussianNB
@@ -9,3 +9,5 @@
  8. SVM - RBF
  9. votting
 10. Bagging
+
+data : pima indian diabetes
